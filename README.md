@@ -1,5 +1,9 @@
 <h1 align="left">Hi 👋, I'm Ali Boutabout</h1>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ALIBOUTABOUT&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 <h4 align="center">Frontend Mobile & Web Developer</h4>
 
 ---
